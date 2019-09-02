@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/movie/movie",
+    "pages/movie/movie-detail/movie-detail",
+    "pages/movie/more-movie/more-movie"
+  ],
+  "window": {
+    "defaultTitle": "支点",
+    "titleBarColor": "#314C6D",
+    "backgroundColor":"#ffffff"
+  }
+}
